@@ -11,7 +11,7 @@ https://github.com/eriklindernoren/ML-From-Scratch ，
 通过pip install -r requirements.txt安装python库就可以运行仓库里面的代码；
 
 
-2），机器学习算法教程：
+2），机器学习算法入门：
 
 https://github.com/machinelearningmindset/machine-learning-course ；
 
@@ -39,7 +39,9 @@ https://github.com/nfmcclure/tensorflow_cookbook ;
 https://github.com/greebear/deeplearning.ai-notes ；
 
 
-2），
+2），李宏毅《机器学习》笔记: 
+
+https://datawhalechina.github.io/Leeml-Book/ ;
 
 
 
