@@ -44,7 +44,7 @@ https://github.com/greebear/deeplearning.ai-notes ；
 https://datawhalechina.github.io/Leeml-Book/ ;
 
 
-3），复旦大学邱锡鹏老师的深度学习课程开源课件集教材，值得一读：
+3），复旦大学邱锡鹏老师的深度学习课程开源课件PPT及PDF教程，值得一读：
 
 https://github.com/nndl/nndl.github.io ；
 
