@@ -44,11 +44,16 @@ https://github.com/greebear/deeplearning.ai-notes ；
 https://datawhalechina.github.io/Leeml-Book/ ;
 
 
+3），复旦大学邱锡鹏老师的深度学习课程开源课件集教材，值得一读：
+
+https://github.com/nndl/nndl.github.io ；
+
+
 
 
 三、数据竞赛TOP解决方案：
 
-1，https://github.com/Smilexuhc/Data-Competition-TopSolution  ；
+1），https://github.com/Smilexuhc/Data-Competition-TopSolution  ；
 
 
 
@@ -61,3 +66,13 @@ https://datawhalechina.github.io/Leeml-Book/ ;
 https://github.com/fxsjy/jieba ；
 
 
+
+
+五、算法工程师面经：
+
+1），DataWhale总结的ML算法工程师面经，比较全面，值得一读：
+
+https://github.com/datawhalechina/Daily-interview ；
+
+
+2），
