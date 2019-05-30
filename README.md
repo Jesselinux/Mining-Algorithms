@@ -49,6 +49,30 @@ https://datawhalechina.github.io/Leeml-Book/ ;
 https://github.com/nndl/nndl.github.io ；
 
 
+4），《TensorFlow-Machine-Learning-Cookbook》书里的源码：
+
+
+https://github.com/PacktPublishing/TensorFlow-Machine-Learning-Cookbook ；
+
+
+5），李航《统计学习方法》一书的所有算法实现：
+
+https://github.com/WenDesi/lihang_book_algorithm ；
+
+
+6),斯坦福CS221课程课件：
+
+https://github.com/afshinea/stanford-cs-221-artificial-intelligence ；
+
+
+7），CS446课程课件：
+
+https://github.com/Zhenye-Na/machine-learning-uiuc ；
+
+
+8），
+
+
 
 
 三、数据竞赛TOP解决方案：
@@ -75,4 +99,9 @@ https://github.com/fxsjy/jieba ；
 https://github.com/datawhalechina/Daily-interview ；
 
 
-2），
+2），数据结构和算法必知必会的50个代码实现,极客时间王争老师整理的刷题攻略：
+
+https://github.com/wangzheng0822/algo ；
+
+
+3），
